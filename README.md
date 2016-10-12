@@ -1,2 +1,2 @@
-# django-terminal
-Full blown unix-like terminal for django apps
+# django-ayncpg
+Asyncpg based django ORM for posgresql backend.
